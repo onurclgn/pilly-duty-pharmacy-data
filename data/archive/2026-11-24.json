@@ -1,0 +1,913 @@
+{
+  "coverage": {
+    "city": "İzmir",
+    "country": "Türkiye"
+  },
+  "fetchedAt": "2026-11-24T20:50:43+03:00",
+  "id": "izmir-open-data:2026-11-24",
+  "pharmacies": [
+    {
+      "address": "ALSANCAK MH. KIBRIS ŞEHİTLERİ CD. NO:53/B",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.436442,
+        "longitude": 27.142883
+      },
+      "district": "ALSANCAK",
+      "id": "izmir-open-data:generated:57ed9ed6aa92017354db",
+      "name": "ÖZLEM ECZANESİ",
+      "phone": "02323672597"
+    },
+    {
+      "address": "GAZIOSMANPASA BULV. 84/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.421299,
+        "longitude": 27.137029
+      },
+      "district": "ALSANCAK-BASMANE",
+      "id": "izmir-open-data:generated:bd4561a5b3f928633745",
+      "name": "ELİF ECZANESİ",
+      "phone": "02324845283"
+    },
+    {
+      "address": "SERİNTEPE MH. 4321 SK. NO:2/C",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.422834,
+        "longitude": 27.19537
+      },
+      "district": "ALTINDAĞ",
+      "dutyNote": "24:00DEN SONRA- ÇAMDİBİ",
+      "id": "izmir-open-data:generated:c387059a8b4dbf76224f",
+      "name": "ECZANE EVREN ECZANESİ",
+      "phone": "02324691762"
+    },
+    {
+      "address": "YENİ MAH. MEHMET AKİF CAD. NO:94/B",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.787185,
+        "longitude": 26.983196
+      },
+      "district": "ALİAĞA",
+      "id": "izmir-open-data:generated:d20d450184e14a0d5bc0",
+      "name": "EGE ŞİFA ECZANESİ",
+      "phone": "02326163595"
+    },
+    {
+      "address": "HÜRRIYET CAD. NO:129 ATATÜRK MAH.",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.477957,
+        "longitude": 27.206349
+      },
+      "district": "ATATÜRK",
+      "id": "izmir-open-data:generated:f60bb9f7ed7c184f15f6",
+      "name": "DEMİRKOL ECZANESİ",
+      "phone": "02323887962"
+    },
+    {
+      "address": "OSMANGAZİ MAH. YAVUZ CAD. NO:350/C",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.466497,
+        "longitude": 27.18605
+      },
+      "district": "ATATÜRK OSMANGAZİ",
+      "id": "izmir-open-data:generated:b96c44f8798436fa710e",
+      "name": "İLKNUR COŞKUN ECZANESİ",
+      "phone": "02323470303"
+    },
+    {
+      "address": "FEVZİ ÇAKMAK MAH. BARIŞ MANÇO CAD.NO:44/D",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.241138,
+        "longitude": 27.281958
+      },
+      "district": "AYRANCILAR",
+      "id": "izmir-open-data:generated:ba1ba2cc086722cc852b",
+      "name": "YILDIRIM ECZANESİ",
+      "phone": "02328547202"
+    },
+    {
+      "address": "EĞİTİM MAH. ZİYA GÖKALP SOK. NO:20/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.395265,
+        "longitude": 27.061149
+      },
+      "district": "BALÇOVA",
+      "id": "izmir-open-data:generated:379057d22e998c7720a0",
+      "name": "ÜLKÜCAN ECZANESİ",
+      "phone": "02322773929"
+    },
+    {
+      "address": "KORUTÜRK MAH. ÖZAGAÇ SOK. 12/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.392583,
+        "longitude": 27.043022
+      },
+      "district": "BALÇOVA 2",
+      "id": "izmir-open-data:generated:9b9cc791b2e35b597660",
+      "name": "ILICA ECZANESİ",
+      "phone": "02322595917"
+    },
+    {
+      "address": "BASINSİTESİ MH. 216 SK. NO:6/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.399383,
+        "longitude": 27.102769
+      },
+      "district": "BASIN SİTESİ",
+      "id": "izmir-open-data:generated:87f5f51c10bf322f5d06",
+      "name": "BASIN SİTESİ ECZANESİ",
+      "phone": "02322449119"
+    },
+    {
+      "address": "MİTHATPAŞA MAH. HASTANE CAD. NO:24/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.221175,
+        "longitude": 27.649563
+      },
+      "district": "BAYINDIR",
+      "id": "izmir-open-data:generated:cb9b3715755eec94e232",
+      "name": "SAĞLIK ECZANESİ",
+      "phone": "02325813113"
+    },
+    {
+      "address": "TEPEKULE MH.2084/8 SK. NO:43/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.464985,
+        "longitude": 27.179341
+      },
+      "district": "BAYRAKLI",
+      "id": "izmir-open-data:generated:54c0d17595159edcfd30",
+      "name": "MENEKŞE ECZANESİ",
+      "phone": "02323713133"
+    },
+    {
+      "address": "KURTULUŞ MAH. KESTEL CAD. NO:65/15",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 39.119171,
+        "longitude": 27.198587
+      },
+      "district": "BERGAMA",
+      "id": "izmir-open-data:generated:b333f96aae9388bfc3dd",
+      "name": "İSTANBUL ECZANESİ",
+      "phone": "02326322828"
+    },
+    {
+      "address": "CUMHURIYET MAH.ULUS MEYDANI NO:20/A BEYDAG",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.085323,
+        "longitude": 28.208369
+      },
+      "district": "BEYDAĞ",
+      "dutyNote": "01:00DEN SONRA- İCAP NÖBETİ TUTULMAKTADIR.",
+      "id": "izmir-open-data:generated:41b3f45a8c24ca3368a2",
+      "name": "AKTEPE ECZANESİ",
+      "phone": "02325927649"
+    },
+    {
+      "address": "ERGENE MAH. 454 SOK. NO:10/B",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.46826,
+        "longitude": 27.219405
+      },
+      "district": "BORNOVA 1",
+      "id": "izmir-open-data:generated:d0feb73709e57e1e3055",
+      "name": "AYLİN ECZANESİ",
+      "phone": "02323395008"
+    },
+    {
+      "address": "KAZIMDIRIK MAH. ÜNIVERSITE CAD. NO:18/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.457852,
+        "longitude": 27.20912
+      },
+      "district": "BORNOVA 2",
+      "id": "izmir-open-data:generated:b3f334f9d074f3eda1ec",
+      "name": "TARIMCI ECZANESİ",
+      "phone": "02323420504"
+    },
+    {
+      "address": "ADALET MAH. ŞEHİT PİLOT ÜSTEĞMEN TÜRKER AYDIN SOK. NO:35",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.458849,
+        "longitude": 27.182226
+      },
+      "district": "BORNOVA 3",
+      "id": "izmir-open-data:generated:13aa0eba04ed0f10069f",
+      "name": "YENİ BAŞAR ECZANESİ",
+      "phone": "02323485151"
+    },
+    {
+      "address": "DOĞANLAR MAH. 1454/1 SOK. NO:1",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.452856,
+        "longitude": 27.250367
+      },
+      "district": "BORNOVA 4",
+      "id": "izmir-open-data:generated:9d8577d3b08b66452cc7",
+      "name": "DOĞANLAR ECZANESİ",
+      "phone": "02324781403"
+    },
+    {
+      "address": "ÇALIKUŞU MAH. ESKİ İZMİR CAD. NO:87/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.397269,
+        "longitude": 27.127751
+      },
+      "district": "BOZYAKA",
+      "id": "izmir-open-data:generated:24f7630fca92803a7f01",
+      "name": "BOZYAKA EZGİ ECZANESİ",
+      "phone": "02322629922"
+    },
+    {
+      "address": "ÖZMEN CAD. NO:40",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.382896,
+        "longitude": 27.173003
+      },
+      "district": "BUCA 1",
+      "id": "izmir-open-data:generated:56d26f122a50d0f381b1",
+      "name": "HANDAN ECZANESİ",
+      "phone": "02324405636"
+    },
+    {
+      "address": "ATATÜRK MH. 63/3 SK. NO:13/E",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.379091,
+        "longitude": 27.178324
+      },
+      "district": "BUCA 2",
+      "id": "izmir-open-data:generated:82604843dead07d42ebd",
+      "name": "OKYANUS ECZANESİ",
+      "phone": "02324201615"
+    },
+    {
+      "address": "İSMETPAŞA MAH. 8 SOK. NO:21/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 39.074685,
+        "longitude": 26.892186
+      },
+      "district": "DİKİLİ",
+      "id": "izmir-open-data:generated:20910a1f79d29a0b46e9",
+      "name": "DUYGU ECZANESİ",
+      "phone": "02326757050"
+    },
+    {
+      "address": "ATATÜRK MAH. REHA MIDILLI CAD. NO:17/A FOÇA",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.667541,
+        "longitude": 26.754681
+      },
+      "district": "ESKİ FOÇA",
+      "id": "izmir-open-data:generated:a2c153f1dd07ddcb42cb",
+      "name": "SUDE ECZANESİ",
+      "phone": "02328127219"
+    },
+    {
+      "address": "UMUT MAH.ESKIIZMIR CAD.NO.644/A KARABAGLAR-IZMIR",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.372002,
+        "longitude": 27.107084
+      },
+      "district": "ESKİİZMİR-CENNETÇEŞME",
+      "dutyNote": "24:00'DEN SONRA- BOZYAKA",
+      "id": "izmir-open-data:generated:4b0ad884051dee2efd8b",
+      "name": "SABIR ECZANESİ",
+      "phone": "02322713550"
+    },
+    {
+      "address": "ADATEPE MAH. 3 SOK. NO:39/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.384805,
+        "longitude": 27.184072
+      },
+      "district": "EVKA 1",
+      "dutyNote": "24:00DEN SONRA- BUCA 1",
+      "id": "izmir-open-data:generated:5a364fd7fc4a24f4702b",
+      "name": "KÖŞE BUCA ECZANESİ",
+      "phone": "02326833238"
+    },
+    {
+      "address": "ATİLA MH. 464 SK.NO.41",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.406033,
+        "longitude": 27.126785
+      },
+      "district": "EŞREFPAŞA",
+      "id": "izmir-open-data:generated:f87f5eadb1023ec7b5a3",
+      "name": "BURKAY ECZANESİ",
+      "phone": "02322623491"
+    },
+    {
+      "address": "SEVGİ MAH. 663 SOK. NO:18/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.31267,
+        "longitude": 27.13273
+      },
+      "district": "GAZİEMİR",
+      "id": "izmir-open-data:generated:a1c5286c53bc274d5934",
+      "name": "MERVE ÜNLÜ ECZANESİ",
+      "phone": "02322742356"
+    },
+    {
+      "address": "İNÖNÜ MH. 672 SK. NO:97/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.356217,
+        "longitude": 27.14287
+      },
+      "district": "GEDİZ",
+      "dutyNote": "01:00'DEN SONRA- ŞİRİNYER",
+      "id": "izmir-open-data:generated:e49ea7c5a2e1973ba4de",
+      "name": "NERMİN ECZANESİ",
+      "phone": "02322768994"
+    },
+    {
+      "address": "LEVENT MAH. BARBAROS HAYRETTİN PAŞA CAD. NO:12/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.419611,
+        "longitude": 27.167068
+      },
+      "district": "GÜLTEPE",
+      "dutyNote": "24:00DEN SONRA- YENİŞEHİR",
+      "id": "izmir-open-data:generated:2b37b2eb3db70a0f293a",
+      "name": "YENİ ZEYTİNLİK ECZANESİ",
+      "phone": "02324330707"
+    },
+    {
+      "address": "GÜMÜŞPALA MAH. 7068 SOK. NO:13/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.471289,
+        "longitude": 27.136717
+      },
+      "district": "GÜMÜŞPALA",
+      "dutyNote": "24:00DEN SONRA - KARŞIYAKA 4",
+      "id": "izmir-open-data:generated:62f1298c000df1504f6b",
+      "name": "YILDIRIM ECZANESİ",
+      "phone": "02325394099"
+    },
+    {
+      "address": "YALI MAH.MITHATPASA CAD.NO:433/A GÜZELBAHÇE/IZMIR",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.377402,
+        "longitude": 26.88846
+      },
+      "district": "GÜZELBAHÇE",
+      "id": "izmir-open-data:generated:ebf590e9e223611a4726",
+      "name": "AYŞE ÇIĞDEM ECZANESİ",
+      "phone": "02322346256"
+    },
+    {
+      "address": "FAHRETTİN ALTAY MAH. 65/12 SOK. NO:45/C",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.394315,
+        "longitude": 27.069541
+      },
+      "district": "HATAY",
+      "id": "izmir-open-data:generated:7c4a88a06216272afa02",
+      "name": "VENÜS ECZANESİ",
+      "phone": "02329994363"
+    },
+    {
+      "address": "GÜNALTAY MAH. 4811 SOKAK. NO14/A ESKİ ÇAĞDAŞ EĞİTİM KOLLEJİ KARŞISI /6/ NOLU AİLE SAĞLIĞI MERKEZİ 0535 467 95 37",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.375789,
+        "longitude": 27.119073
+      },
+      "district": "KARABAĞLAR",
+      "id": "izmir-open-data:generated:3e83d7d74225336620f6",
+      "name": "ÖZGE ECZANESİ",
+      "phone": "02322655417"
+    },
+    {
+      "address": "İSKELE MH. KEPEZ CD. NO:19/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.634972,
+        "longitude": 26.522727
+      },
+      "district": "KARABURUN",
+      "dutyNote": "19:00 DAN SONRA- İCAP NÖBETİ TUTULMAKTADIR.",
+      "id": "izmir-open-data:generated:844e9b33b18c9f5e3db1",
+      "name": "SAADET ECZANESİ",
+      "phone": "02327313397"
+    },
+    {
+      "address": "ALAYBEY MAH. 1690 SOK. NO:134/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.459945,
+        "longitude": 27.120724
+      },
+      "district": "KARŞIYAKA 1",
+      "id": "izmir-open-data:generated:fc115dc0f229f95b47f0",
+      "name": "CEYLAN ECZANESİ",
+      "phone": "02323232324"
+    },
+    {
+      "address": "BAHRİYE ÜÇOK MH ATATÜRK BULV NO:40",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.46276,
+        "longitude": 27.110481
+      },
+      "district": "KARŞIYAKA 2",
+      "id": "izmir-open-data:generated:69c064bf3294890cc3c7",
+      "name": "GİZEM ECZANESİ",
+      "phone": "02323676797"
+    },
+    {
+      "address": "2031 SOKAK NO:7/A BOSTANLI KARSIYAKA/IZMIR",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.463321,
+        "longitude": 27.089253
+      },
+      "district": "KARŞIYAKA 3",
+      "id": "izmir-open-data:generated:7c7b31cd26f7a877df19",
+      "name": "ALTINIRMAK ECZANESİ",
+      "phone": "02323620376"
+    },
+    {
+      "address": "DEDEBAŞI MAH. ALİ ALP BÖKE CAD. NO:111/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.465941,
+        "longitude": 27.106189
+      },
+      "district": "KARŞIYAKA 4",
+      "id": "izmir-open-data:generated:43855c3522e28f1a8ed9",
+      "name": "BARIŞIN ECZANESİ",
+      "phone": "02326353766"
+    },
+    {
+      "address": "SOĞUKPINAR MAH. İNÖNÜ CAD. NO:38/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.425029,
+        "longitude": 27.423145
+      },
+      "district": "KEMALPAŞA",
+      "id": "izmir-open-data:generated:bf401c49bd30080804da",
+      "name": "YASİN ECZANESİ",
+      "phone": "02325990078"
+    },
+    {
+      "address": "TÜRKCEDIT MAH. ATATÜRK CAD. NO:144/AKINIK/IZMIR",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 39.087112,
+        "longitude": 27.383226
+      },
+      "district": "KINIK",
+      "id": "izmir-open-data:generated:fb7810a77fb555692b22",
+      "name": "ÖZÇIMENLI ECZANESİ",
+      "phone": "02326874342"
+    },
+    {
+      "address": "u0130STu0130KLAL MAHALLEu0130 SABu0130T ARLI CADDESu0130 NO 57 Ku0130RAZ u0130ZMu0130R",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.231587,
+        "longitude": 28.207126
+      },
+      "district": "KİRAZ",
+      "id": "izmir-open-data:generated:1f8128ca226f058de900",
+      "name": "ÖZYILMAZ ECZANESİ",
+      "phone": "02325723549"
+    },
+    {
+      "address": "CÜNEYTBEY MAH. 683 SOK. NO:1/C",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.239367,
+        "longitude": 27.135654
+      },
+      "district": "MENDERES",
+      "id": "izmir-open-data:generated:669e5091a6e89bec9459",
+      "name": "BETÜL ECZANESİ",
+      "phone": "02327824917"
+    },
+    {
+      "address": "KASIMPAŞA MAH. BAHRİYE ÜÇOK CAD. NO:7/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.606533,
+        "longitude": 27.078371
+      },
+      "district": "MENEMEN",
+      "id": "izmir-open-data:generated:d3b799ae7ae11ca4dcd4",
+      "name": "TUTKUN ECZANESİ",
+      "phone": "02328314001"
+    },
+    {
+      "address": "30 AGUSTOS MAH. 7124 SOK NO:4/C/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.55254,
+        "longitude": 27.049669
+      },
+      "district": "MENEMEN 2",
+      "dutyNote": "24:00A KADAR",
+      "id": "izmir-open-data:generated:a320b3632ca0257ce146",
+      "name": "EGE SEYHAN ECZANESİ",
+      "phone": "02328383676"
+    },
+    {
+      "address": "MORDOĞAN MH. FATİH CD. NO:10",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.517947,
+        "longitude": 26.625422
+      },
+      "district": "MORDOĞAN",
+      "dutyNote": "19:00 DAN SONRA- İCAP NÖBETİ TUTULMAKTADIR.",
+      "id": "izmir-open-data:generated:4c09983a1be06b266124",
+      "name": "MORDOGAN EGE ECZANESİ",
+      "phone": "02327375520"
+    },
+    {
+      "address": "GÜZELYALI MAH. MİTHATPAŞA CAD. NO:1176/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.398983,
+        "longitude": 27.079653
+      },
+      "district": "MİTHATPAŞA",
+      "id": "izmir-open-data:generated:5bbdbf8eb044149fc035",
+      "name": "ATA MERT ECZANESİ",
+      "phone": "02322855143"
+    },
+    {
+      "address": "ÇAMTEPE MAH. MİTHATPAŞA CAD. NO:241/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.394069,
+        "longitude": 27.010639
+      },
+      "district": "NARLIDERE",
+      "id": "izmir-open-data:generated:91c112c199a2866da122",
+      "name": "BAYRAM ECZANESİ",
+      "phone": "02322394939"
+    },
+    {
+      "address": "GÜRPINAR MAH. 7058 SOK. NO:14A PINARBAŞI",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.429856,
+        "longitude": 27.273705
+      },
+      "district": "PINARBAŞI",
+      "dutyNote": "24:00DEN SONRA- ÇAMDİBİ",
+      "id": "izmir-open-data:generated:21a13a557cb48aad3697",
+      "name": "KARADENİZ ECZANESİ",
+      "phone": "02324786606"
+    },
+    {
+      "address": "MENDERES CD.80/B",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.297236,
+        "longitude": 27.167904
+      },
+      "district": "SARNIÇ",
+      "dutyNote": "24:00DEN SONRA- GAZİEMİR",
+      "id": "izmir-open-data:generated:fc972f240ee00b07008e",
+      "name": "SARNIÇ ECZANESİ",
+      "phone": "02322812343"
+    },
+    {
+      "address": "HIDIRLIK MAH.ATATÜRK CD.41/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.194902,
+        "longitude": 26.836549
+      },
+      "district": "SEFERİHİSAR",
+      "id": "izmir-open-data:generated:f10c808f6d811bb76cea",
+      "name": "ASLI ECZANESİ",
+      "phone": "02327433747"
+    },
+    {
+      "address": "SIĞACIK MAH. AKKUM CAD. NO:9/C",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.192633,
+        "longitude": 26.785834
+      },
+      "district": "SEFERİHİSAR-SIĞACIK BÖLGESİ",
+      "id": "izmir-open-data:generated:5d3ab21195b393193049",
+      "name": "SIĞACIK ECZANESİ",
+      "phone": "02327432233"
+    },
+    {
+      "address": "ATATÜRK MAH. LIENZ SOKAK 15/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 37.949625,
+        "longitude": 27.370951
+      },
+      "district": "SELÇUK",
+      "id": "izmir-open-data:generated:e076a23fe8e1f72d003b",
+      "name": "YUNUS EMRE ECZANESİ",
+      "phone": "02328923393"
+    },
+    {
+      "address": "TORBALI MH. METROPOLİS BLV.NO:70 TORBALI/İZMİR",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.17593,
+        "longitude": 27.350985
+      },
+      "district": "TORBALI",
+      "id": "izmir-open-data:generated:4d3e59dd1ade80db0353",
+      "name": "TORBALI ECZANESİ",
+      "phone": "02328562514"
+    },
+    {
+      "address": "ERTUĞRUL MAH. MİTHATPAŞA CAD. NO:67/B",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.154897,
+        "longitude": 27.357927
+      },
+      "district": "TORBALI",
+      "id": "izmir-open-data:generated:335c851b788e035ed4be",
+      "name": "UYSAL ECZANESİ",
+      "phone": "02328561024"
+    },
+    {
+      "address": "ATATÜRK MAH.SAMANYOLU SOK.NO.2/C",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.100177,
+        "longitude": 27.724447
+      },
+      "district": "TİRE",
+      "id": "izmir-open-data:generated:532717e2ea1fb38bef0a",
+      "name": "ÖYKÜ BERIL ECZANESİ",
+      "phone": "02325124581"
+    },
+    {
+      "address": "YAKA MAH. ERDOĞAN KER CAD. NO:112/B",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.325355,
+        "longitude": 26.753182
+      },
+      "district": "URLA",
+      "id": "izmir-open-data:generated:9c6379838703b77b3bb4",
+      "name": "MELEK ECZANESİ",
+      "phone": "02322538369"
+    },
+    {
+      "address": "ATATÜRK MAH. IZMIR CAD. NO:87/D",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.738804,
+        "longitude": 26.838447
+      },
+      "district": "YENİ FOÇA",
+      "dutyNote": "24:00 DEN SONRA- İCAP NÖBETİ TUTULMAKTADIR.",
+      "id": "izmir-open-data:generated:39a60f7f0b30a46e941c",
+      "name": "YAGMUR ECZANESİ",
+      "phone": "02328148615"
+    },
+    {
+      "address": "SAYFIYE MAH. KAZIM DIRIK CAD.NO:58/AYENI SAKRAN-ALIAGA/IZMIR",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.889168,
+        "longitude": 27.065746
+      },
+      "district": "YENİ ŞAKRAN",
+      "dutyNote": "21:00 DEN SONRA- İCAP NÖBETİ TUTULMAKTADIR.",
+      "id": "izmir-open-data:generated:8015b96c52e2dd5204a2",
+      "name": "YAZAL ECZANESİ",
+      "phone": "02326287143"
+    },
+    {
+      "address": "YENİŞEHİR MAH. GAZİLER CAD. NO:341/B",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.424391,
+        "longitude": 27.167213
+      },
+      "district": "YENİŞEHİR",
+      "id": "izmir-open-data:generated:25d9ec510c1678afa4c2",
+      "name": "NEFES ECZANESİ",
+      "phone": "02324579637"
+    },
+    {
+      "address": "ESENLIK MH.9054 SOK.NO.16",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.396778,
+        "longitude": 27.112395
+      },
+      "district": "YEŞİLYURT",
+      "dutyNote": "24:00DEN SONRA- BASIN SİTESİ",
+      "id": "izmir-open-data:generated:01b3322296d6e60ee9ec",
+      "name": "YEŞİLYURT ECZANESİ",
+      "phone": "02322322200"
+    },
+    {
+      "address": "M.FEVZI ÇAKMAK MAH. N. KEMAL BULV. NO:27/13",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.368106,
+        "longitude": 26.837361
+      },
+      "district": "ZEYTİNALANI",
+      "id": "izmir-open-data:generated:b2f6fc274fa06fedd057",
+      "name": "URLA BASAR ECZANESİ",
+      "phone": "02327663516"
+    },
+    {
+      "address": "YEŞİLOVA MAH. 4174 SOK. NO:101/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.431413,
+        "longitude": 27.208101
+      },
+      "district": "ÇAMDİBİ",
+      "id": "izmir-open-data:generated:0bd74b34d6b2265b9642",
+      "name": "PALMİYE ECZANESİ",
+      "phone": "02325279511"
+    },
+    {
+      "address": "ISLAM MAH. HÜRRIYET MEYDANI NO:22/2 ÇANDARLI-IZMIR",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.935683,
+        "longitude": 26.934613
+      },
+      "district": "ÇANDARLI",
+      "id": "izmir-open-data:generated:794b0cd3ee1095558d5e",
+      "name": "ORAN ECZANESİ",
+      "phone": "02326731088"
+    },
+    {
+      "address": "INKILAP CAD.2001 SOK.NO:107/E",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.326756,
+        "longitude": 26.310576
+      },
+      "district": "ÇEŞME",
+      "id": "izmir-open-data:generated:7818b8a1269e9507e2b2",
+      "name": "GÖZDE ECZANESİ",
+      "phone": "02327120440"
+    },
+    {
+      "address": "ALAÇATI MH. ALAÇATI ATATÜRK CD. NO:23/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.288356,
+        "longitude": 26.375845
+      },
+      "district": "ÇEŞME",
+      "id": "izmir-open-data:generated:859044918aedaa15f2d5",
+      "name": "RÜZGAR ECZANESİ",
+      "phone": "02327160828"
+    },
+    {
+      "address": "DENİZLİ MAH. 113 SOK. NO:6/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.390722,
+        "longitude": 26.747033
+      },
+      "district": "ÇEŞMEALTI-İSKELE",
+      "id": "izmir-open-data:generated:da45ace465a106d8c2de",
+      "name": "UMUT ECZANESİ",
+      "phone": "02327554249"
+    },
+    {
+      "address": "UĞUR MUMCU MAH. 8968 SOK. NO:11/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.523019,
+        "longitude": 27.043884
+      },
+      "district": "ÇİĞLİ",
+      "id": "izmir-open-data:generated:8ba9c600dd2c60032d3e",
+      "name": "DURU SU ECZANESİ",
+      "phone": "02328390004"
+    },
+    {
+      "address": "KÖYIÇI MAH. DERE CAD. NO:16 ÇIGLI-IZMIR",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.492768,
+        "longitude": 27.065505
+      },
+      "district": "ÇİĞLİ",
+      "id": "izmir-open-data:generated:22ddd49f60b1f6efe920",
+      "name": "GÜMÜSIGNE ECZANESİ",
+      "phone": "02323861337"
+    },
+    {
+      "address": "8034 SK. NO:51/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.495988,
+        "longitude": 27.055858
+      },
+      "district": "ÇİĞLİ",
+      "id": "izmir-open-data:generated:10cda3babbba42ce584c",
+      "name": "YENİ MAHALLE ECZANESİ",
+      "phone": "02323766377"
+    },
+    {
+      "address": "ATATÜRK MH.SARAÇOGLU CD.12",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.229785,
+        "longitude": 27.975483
+      },
+      "district": "ÖDEMİŞ",
+      "id": "izmir-open-data:generated:c3eda643fdf51ab99601",
+      "name": "BALCI ECZANESİ",
+      "phone": "02325445577"
+    },
+    {
+      "address": "MERSİNALANI MAH. CUMHURİYET CAD. NO:49/A",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.079549,
+        "longitude": 26.957288
+      },
+      "district": "ÜRKMEZ",
+      "id": "izmir-open-data:generated:0b5853bae0720fe670c4",
+      "name": "ÇAĞLA ECZANESİ",
+      "phone": "02327422000"
+    },
+    {
+      "address": "KILIÇ REİS MH. ŞEHİT KEMAL KESER SK. NO:52/C",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.406814,
+        "longitude": 27.119418
+      },
+      "district": "ÜÇYOL",
+      "id": "izmir-open-data:generated:87c507a26901e2308ebf",
+      "name": "ECZANE BADE ECZANESİ",
+      "phone": "02322615557"
+    },
+    {
+      "address": "HÜRRİYET MAH. MENDERES CAD. NO:311/B",
+      "city": "İzmir",
+      "coordinate": {
+        "latitude": 38.396214,
+        "longitude": 27.148537
+      },
+      "district": "ŞİRİNYER",
+      "id": "izmir-open-data:generated:8245b2006537bbf3aefd",
+      "name": "BELGİN ÇIRAK ECZANESİ",
+      "phone": "02329995513"
+    }
+  ],
+  "schemaVersion": 1,
+  "serviceDate": "2026-11-24",
+  "source": {
+    "id": "izmir-open-data",
+    "licenseName": "İzmir Açık Veri Lisansı (CC BY 4.0)",
+    "licenseURL": "https://acikveri.bizizmir.com/tr/license",
+    "name": "İzmir Büyükşehir Belediyesi Açık Veri",
+    "url": "https://acikveri.bizizmir.com/dataset/nobetci-eczaneler-ve-eczane-listesi"
+  },
+  "validFrom": "2026-11-24T09:00:00+03:00",
+  "validUntil": "2026-11-25T09:00:00+03:00",
+  "validationStatus": "validated"
+}
